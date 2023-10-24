@@ -1,0 +1,1 @@
+A final project I did for ICS 440. You need the PROJ_ThreadRendezvous and Thread-Rendezvous-main to be seperate projects in Eclispe. The code I programmed is in the StringHandoffImpl.java. This project deals with threads and exceptions.
